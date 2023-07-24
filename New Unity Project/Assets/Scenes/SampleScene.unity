@@ -632,7 +632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: '[PROMPT]'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2851,6 +2851,10 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6150948225864692150, guid: 267912184f6fd8749bdefce0ad7962ab, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4136398
+      objectReference: {fileID: 0}
+    - target: {fileID: 6150948225864692150, guid: 267912184f6fd8749bdefce0ad7962ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.0014892
       objectReference: {fileID: 0}
@@ -2860,7 +2864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6150948225864692150, guid: 267912184f6fd8749bdefce0ad7962ab, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 9.835
+      value: 10.007
       objectReference: {fileID: 0}
     - target: {fileID: 6150948225864692150, guid: 267912184f6fd8749bdefce0ad7962ab, type: 3}
       propertyPath: m_LocalRotation.w
